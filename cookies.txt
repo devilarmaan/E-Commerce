@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.startech.com.bd	TRUE	/	FALSE	1999999999	PHPSESSID	kuk6vlg8f0r2j4ghp1oru88v80
+www.startech.com.bd	TRUE	/	FALSE	1999999999	language	en
+www.startech.com.bd	TRUE	/	FALSE	1999999999	currency	BDT
+.hertzen.com	TRUE	/	FALSE	1999999999	__cfduid	d9912ac0050e5c33e153d81fc90e3c91b1618298731
+html2canvas.hertzen.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.gamdias.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.gamdias.com	TRUE	/	FALSE	1999999999	__cfduid	d5a0c443d5e5891fb7e354baec9b8f9a91618305515
+gamdias.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.antec.com	TRUE	/	FALSE	1999999999	__cfduid	dbe6a371fa2f7507ef148adcc8161ca2b1618306420
+antec.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
